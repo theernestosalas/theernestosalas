@@ -20,7 +20,7 @@ I'm currently transitioning from a successful career in commercial real estate t
 
 ## 🌱 I’m currently learning 
 
-- Full-stack Development
+- Full-Stack Development
 - Artificial Intelligence
 
 ## 🔭 I’m currently working on 
