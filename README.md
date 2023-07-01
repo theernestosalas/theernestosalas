@@ -35,7 +35,7 @@ I'm currently transitioning from a successful career in commercial real estate t
 
 ## 👥 Connect with me
 
-- 💼 [LinkedIn](linkedin_profile](https://www.linkedin.com/in/ernesto-salas-37663984/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ernesto-salas-37663984/)
 - 📸 [Instagram](https://www.instagram.com/theapexscholar)
 - 📧 [Email](bandsnco@gmail.com)
 
