@@ -1,4 +1,4 @@
-### # 👋 Hi, I'm Ernesto
+### 👋 Hi, I'm Ernesto
 
 I'm currently transitioning from a successful career in commercial real estate to the dynamic world of software engineering. My experience in real estate has equipped me with great problem-solving, negotiation, and critical thinking skills - attributes that I am excited to leverage in my new venture as a software engineer. When I'm not coding or exploring the intricacies of technology, you'll find me at exercising outdoors, playing chess with my daughter, or diving into a new book on programming.
 
@@ -31,7 +31,7 @@ I'm currently transitioning from a successful career in commercial real estate t
 ## 📚 Education
 
 - Real Estate License, Texas, 2019-Present
-- [Your New Qualification/Certification/Bootcamp], [Institute Name], [Year]
+- Full Stack Web Development, App Academy, 2023-Present
 
 ## 👥 Connect with me
 
