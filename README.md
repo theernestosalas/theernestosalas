@@ -20,7 +20,7 @@ I'm currently shifting my career focus from commercial real estate, where I have
 
 ## 🌱 I’m currently learning 
 
-- Full-Stack Development
+- Full-Stack Web Development
 - Artificial Intelligence
 
 ## 🔭 I’m currently working on 
