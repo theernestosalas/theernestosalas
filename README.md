@@ -15,8 +15,6 @@ I'm currently shifting my career focus from commercial real estate, where I have
 - Python
 - Java
 - JavaScript
-- HTML/CSS
-- SQL
 
 ## 🌱 I’m currently learning 
 
