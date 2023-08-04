@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Ernesto
 
-I'm currently shifting my career focus from commercial real estate, where I have had considerable success, to software engineering. My experience in real estate has equipped me with great problem-solving, negotiation, and critical thinking skills - attributes that I am excited to leverage in my new venture as a software engineer. When I'm not coding or exploring the intricacies of technology, you'll find me exercising outdoors, playing chess with my daughter, or diving into a new book. I am also open to collaboration on innovative project ideas.
+I'm currently shifting my career focus from commercial real estate, where I have had considerable success, to software engineering. My experience in real estate has equipped me with great problem-solving, negotiation, and critical thinking skills - attributes that I am excited to leverage in my new venture as a software engineer. When I'm not coding or exploring the intricacies of technology, you'll find me exercising outdoors, playing chess with my daughter, or diving into a new book. I am also open to collaboration to innovate something amazing.
 
 ## 🚀 Skills
 
