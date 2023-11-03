@@ -1,6 +1,6 @@
-### 👋 Hi, I'm Ernesto
+### Hi, I'm Ernesto
 
-I'm currently shifting my career focus from commercial real estate to software engineering. My experience in real estate has equipped me with great problem-solving, negotiation, and critical thinking skills - attributes that I am excited to leverage in my new venture as a software engineer. When I'm not coding or exploring the intricacies of technology, you'll find me exercising outdoors, playing chess with my daughter, or diving into a new book. I am also open to collaboration to innovate something amazing.
+In the realm of machine learning and AI, I deploy code with precision, transforming complex data into clarity. My background in strategy informs my approach to software engineering—a blend of critical analysis and efficiency. When disconnected, I'm a strategist at the chessboard and a quiet consumer of literature. Collaboration is reserved for ventures bold and innovative, where code meets ambition in the stark landscape of technology.
 
 ## 🚀 Skills
 
@@ -19,11 +19,11 @@ I'm currently shifting my career focus from commercial real estate to software e
 ## 🌱 I’m currently learning 
 
 - Full-Stack Web Development
+- Machine Learning
 
-## 🔭 I’m currently working on 
-
-- Building a robust portfolio of projects that demonstrate my coding skills and understanding of software development.
-- Contributing to open source projects to gain practical experience and give back to the community.
+## 🔭 Current Endeavors
+Architecting a suite of AI-driven projects, each a testament to the art of converting code into solutions for intricate challenges.
+Engaging with the open source ecosystem to refine my craft in machine intelligence, contributing to the collective quest for next-generation problem-solving.
 
 ## 📚 Education
 
